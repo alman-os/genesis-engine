@@ -58,7 +58,6 @@ The Genesis Engine is the core of a larger vision called **Alman-OS**, a modular
 >
 > > **[View the CoT Monitoring Prototype Repository Here](https://github.com/alman-os/cot-monitoring)
 
-B
 
 ## Vision and Opportunity
 
