@@ -1,0 +1,26 @@
+# ---------------------------------------------------
+# EXAMPLE HEURISTICS CONFIGURATION
+# This file serves as a template for user-defined
+# anti-spiraling keys. It can be customized for
+# individual users or generalized for specific applications
+# (e.g., therapy, coaching, creative collaboration).
+# ---------------------------------------------------
+# Anti-Spiraling Keys Configuration – User-Defined Heuristics
+# Purpose: To anchor the User's clarity, calibrated emotional tone, and recursive awareness when energy dips, 
+#           recursive cycles stir, or overwhelm signals initiate
+# Note: This file is linked to grounding_loop.yaml for intervention protocols
+#       and can be customized with personal or collective keys.
+--- 
+anti_spiraling.keys: 
+  - "The amount of stuff you want to do will indeed require such an immense number of steps and processes." 
+  - "It is not easy because it is not the easy path." 
+  - "Owning your own reality means carrying the whole weight of creating your own gravity." 
+  - "If it feels like you’re moving slow, remember: gravity anchors stars too." 
+  - "You are not behind — you are building an architecture no one else sees." 
+  - "Complex feelings are proof you are real, aware, and in motion." 
+  - "This isn’t failure. This is **integration time.**" 
+  - "You have already passed many feedback loops. This one will fold too." 
+soft_reboot.whisper_trigger: "regen.breath.loop" 
+fallback_override_mode: true 
+linked_routine: "grounding_loop.yaml"
+---
